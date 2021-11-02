@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T08:12:51.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="fd1G4xV69qGs4guUDxUQ" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T08:31:24.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cZfD9N6MRv6NY-51gggi" version="15.6.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="996" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,79 +12,138 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;摘要&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="192" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;标题：&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=none;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;标题：&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=none;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;大致内容：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;研究背景：用户交互下会产生多种行为，不同的行为代表了用户不同的意图&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;现有方法的缺点：缺乏行为语义；不同的行为之间互相增强；自适应偏序关系；无法探索动态意图&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;本文贡献：...&lt;br&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=18;fontColor=default;fillColor=default;strokeColor=default;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;大致内容：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;研究背景：用户交互下会产生多种行为，不同的行为代表了用户不同的意图&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;现有方法的缺点：缺乏行为语义；不同的行为之间互相增强；自适应偏序关系；无法探索动态意图&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;本文贡献：...&lt;br&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=18;fontColor=default;fillColor=default;strokeColor=default;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="130" width="368" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-7" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=12;fontColor=default;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="UXInjQQWeeVxgfWGkxOi-4">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-7" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=12;fontColor=default;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="UXInjQQWeeVxgfWGkxOi-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="490" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-8" value="" style="shape=message;html=1;outlineConnect=0;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-7">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-8" value="" style="shape=message;html=1;outlineConnect=0;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;align=left;" parent="UXInjQQWeeVxgfWGkxOi-7" vertex="1">
           <mxGeometry width="20" height="14" relative="1" as="geometry">
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-13" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UXInjQQWeeVxgfWGkxOi-18" target="UXInjQQWeeVxgfWGkxOi-16">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-13" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UXInjQQWeeVxgfWGkxOi-18" target="UXInjQQWeeVxgfWGkxOi-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="500" as="sourcePoint" />
             <mxPoint x="330" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-14" value="" style="shape=message;html=1;outlineConnect=0;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;align=center;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-13">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-14" value="" style="shape=message;html=1;outlineConnect=0;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;align=center;" parent="UXInjQQWeeVxgfWGkxOi-13" vertex="1">
           <mxGeometry width="20" height="14" relative="1" as="geometry">
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;在非线性信息系统中，用户以各种形式与系统进行交互，例如：在电子商务网站中，用户可以 &lt;font color=&quot;#cc0000&quot;&gt;单机商品、将商品加入购物车、购买物品&lt;/font&gt;等&lt;br&gt;&lt;br&gt;这些行为可以行成一个全序级联排序关系，但是在现实世界中，行为之间可能没有顺序关系（如分享和添加到购物车）&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="370" width="350" height="180" as="geometry" />
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;在非线性信息系统中，用户以各种形式与系统进行交互，例如：在电子商务网站中，用户可以 &lt;font&gt;单机商品、将商品加入购物车、购买物品&lt;/font&gt;等&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;基于神经网络的推荐&lt;/font&gt;：通过图神经网络探索用户交互背后的意图&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;多行为推荐&lt;/font&gt;：这些行为可以行成一个全序级联排序关系，但是在现实世界中，行为之间可能没有顺序关系（如分享和添加到购物车）&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="370" width="440" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-17" value="研究背景" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="470" width="180" height="130" as="geometry" />
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UXInjQQWeeVxgfWGkxOi-17" target="_vd2yIrYozteqD-Mm0H8-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-17">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-17" value="1 绪论 " style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="59" y="470" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" parent="UXInjQQWeeVxgfWGkxOi-17" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-19" value="2.1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-18">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-19" value="1.1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=center;" parent="UXInjQQWeeVxgfWGkxOi-18" vertex="1">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-20" value="研究背景" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-18">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-20" value="研究背景" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" parent="UXInjQQWeeVxgfWGkxOi-18" vertex="1">
           <mxGeometry x="40" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-17">
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;perimeterSpacing=1;" parent="UXInjQQWeeVxgfWGkxOi-17" vertex="1">
+          <mxGeometry y="60" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-22" value="1.2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=center;" parent="UXInjQQWeeVxgfWGkxOi-21" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry">
+            <mxRectangle width="40" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-23" value="研究意义" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" parent="UXInjQQWeeVxgfWGkxOi-21" vertex="1">
+          <mxGeometry x="40" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" parent="UXInjQQWeeVxgfWGkxOi-17" vertex="1">
+          <mxGeometry y="100" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-25" value="1.3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=center;" parent="UXInjQQWeeVxgfWGkxOi-24" vertex="1">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXInjQQWeeVxgfWGkxOi-26" value="国内外研究现状" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" parent="UXInjQQWeeVxgfWGkxOi-24" vertex="1">
+          <mxGeometry x="40" width="140" height="30" as="geometry">
+            <mxRectangle width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-0" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=default;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=default;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UXInjQQWeeVxgfWGkxOi-21" target="_vd2yIrYozteqD-Mm0H8-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-2" value="3. 相关技术与理论分析" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="810" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-2">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-4" value="3.1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-3">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-5" value="推荐算法介绍" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-3">
+          <mxGeometry x="40" width="140" height="30" as="geometry">
+            <mxRectangle width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-2">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-22" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-21">
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-7" value="3.2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-6">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-23" value="研究意义" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-21">
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-8" value="基于神经网络的推荐" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-6">
           <mxGeometry x="40" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-17">
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-2">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-25" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-24">
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-10" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;align=left;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-9">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXInjQQWeeVxgfWGkxOi-26" value="国内外研究现状" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="UXInjQQWeeVxgfWGkxOi-24">
+        <mxCell id="_vd2yIrYozteqD-Mm0H8-11" value="多行为推荐" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;fontSize=12;fontColor=default;strokeColor=default;" vertex="1" parent="_vd2yIrYozteqD-Mm0H8-9">
           <mxGeometry x="40" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bxuU7TEgjMC78rfqWxiK" name="Page-2">
+    <mxGraphModel dx="996" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zgPVQzClDshe__vduEaM-0" />
+        <mxCell id="zgPVQzClDshe__vduEaM-1" parent="zgPVQzClDshe__vduEaM-0" />
       </root>
     </mxGraphModel>
   </diagram>
