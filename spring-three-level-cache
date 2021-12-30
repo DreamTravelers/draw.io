@@ -1,1 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T07:10:34.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="FhSvdsOFbb7P9MTjZ21R" type="github"><diagram id="jIHMxL7uAqp3zqQaQLH-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-30T07:27:42.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VeFAwFzRzDpvcmvqglV9" version="16.1.0" type="github">
+  <diagram id="jIHMxL7uAqp3zqQaQLH-" name="Page-1">
+    <mxGraphModel dx="840" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ENasU4LeW8iX69vx3u-p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-1" target="ENasU4LeW8iX69vx3u-p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Bean 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="35" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-2" target="ENasU4LeW8iX69vx3u-p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;从一级缓存中获取不到实例&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="15" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-4" target="ENasU4LeW8iX69vx3u-p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-4" value="创建实例" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="35" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-6" target="ENasU4LeW8iX69vx3u-p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-6" value="提前暴露，添加到三级缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-8" target="ENasU4LeW8iX69vx3u-p-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;依赖注入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="35" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-10" target="ENasU4LeW8iX69vx3u-p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Bean 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="225" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-12" target="ENasU4LeW8iX69vx3u-p-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;从一级缓存中获取不到实例&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="205" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-14" target="ENasU4LeW8iX69vx3u-p-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-14" value="创建实例" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="225" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-16" target="ENasU4LeW8iX69vx3u-p-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-16" value="提前暴露，添加到三级缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-18" target="ENasU4LeW8iX69vx3u-p-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="520" />
+              <mxPoint x="380" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;依赖注入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="225" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-20" target="ENasU4LeW8iX69vx3u-p-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Bean 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="445" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-22" target="ENasU4LeW8iX69vx3u-p-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-22" value="&lt;span style=&quot;font-size: 18px&quot;&gt;从三级缓存获取到实例，并添加到二级缓存&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-24" target="ENasU4LeW8iX69vx3u-p-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-24" value="Bean 2 依赖注入成功" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="415" y="330" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-26" target="ENasU4LeW8iX69vx3u-p-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-26" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Bean 2 初始化完成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="400" width="182.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-28" target="ENasU4LeW8iX69vx3u-p-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="510" />
+              <mxPoint x="620" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-28" value="Bean 2 添加到一级缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="480" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-30" target="ENasU4LeW8iX69vx3u-p-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-30" value="Bean 1 依赖注入成功" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-32" target="ENasU4LeW8iX69vx3u-p-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-32" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Bean 1 初始化完成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="639" y="250" width="182.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="ENasU4LeW8iX69vx3u-p-34" target="ENasU4LeW8iX69vx3u-p-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-34" value="Bean 1 添加到一级缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="645.25" y="340" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ENasU4LeW8iX69vx3u-p-36" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="685.25" y="450" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
