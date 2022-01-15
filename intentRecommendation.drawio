@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T13:08:25.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="l3PBuSrzLvUtAmxuaKDz" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T13:09:51.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Zrv9grr_xb4z1N-SUYWv" version="16.2.7" type="github">
   <diagram id="CW8x2hL7wYyZvBAogm6k" name="Page-1">
-    <mxGraphModel dx="2274" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1957" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,11 +198,17 @@
         <mxCell id="V6XyU5g0OrHyUqrQ1MJe-51" value="未来展望" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="253.88" y="7310" width="336" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="V6XyU5g0OrHyUqrQ1MJe-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#808080;" edge="1" parent="1" source="V6XyU5g0OrHyUqrQ1MJe-52" target="V6XyU5g0OrHyUqrQ1MJe-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V6XyU5g0OrHyUqrQ1MJe-52" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;自监督学习&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="43.13" y="7430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V6XyU5g0OrHyUqrQ1MJe-53" value="&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;因果效应推理、反事实推理和反推理&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="153.13" y="7430" width="385" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V6XyU5g0OrHyUqrQ1MJe-55" value="&lt;span style=&quot;font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;监督信号仅来自历史交互。这种监管太过分散，无法提供高质量的陈述&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="150.01" y="7510" width="520" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
